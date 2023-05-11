@@ -1,5 +1,5 @@
 # Scripts
-In this directories you can find some interesting scripts that I wrote on JavaScript
+In these directories you can find some interesting scripts that I wrote on JavaScript
 ## aim-game directory
 The point of the game is to catch as many circles as you can
 ## relax-board directory
